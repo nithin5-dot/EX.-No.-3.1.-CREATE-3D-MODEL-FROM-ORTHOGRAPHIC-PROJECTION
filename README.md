@@ -11,36 +11,56 @@ To create a 3D model from given orthographic projection.
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch.
+## STEP 1:
+1.Select the new design and select the create to create new drawing on the top side..
+2. Draw a 11mm line randomly near the centre.
 
-![image](https://user-images.githubusercontent.com/113594316/198551199-8d9b7f6c-6ea7-4d59-8e8c-173f2b5e088f.png)
+<img width="1262" height="582" alt="Screenshot 2026-11-20 202139" src="https://github.com/user-attachments/assets/cb89e015-2d73-476b-9a7b-80636ec736ef" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+3. Then draw the following lengths mentioned in the picture.
+   
+<img width="1258" height="582" alt="Screenshot 2026-11-20 202154" src="https://github.com/user-attachments/assets/e3238a0a-3077-4509-a394-483628965304" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551220-c7aa6694-4427-48e2-9d91-cd7e9615d651.png)
+## STEP 2:
+1. Give finish sketch and extrude it upto 32mm.
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="1263" height="590" alt="Screenshot 2026-11-20 202213" src="https://github.com/user-attachments/assets/82280356-57aa-4686-8f24-b11c8588290d" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551270-45875855-43a7-4471-af35-bd10cd9dd153.png)
+2. Give Create sketch on the right side of the diagram.
+3. Then draw a circle of 18mm.
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+<img width="1262" height="617" alt="Screenshot 2026-11-20 202225" src="https://github.com/user-attachments/assets/c9bd3dd1-12d0-4e00-8b93-894120830d15" />
+4. After drawing circle give finish sketch.
+5. Then extrude that circle to 32mm.
+   
+<img width="1268" height="610" alt="Screenshot 2026-11-20 202235" src="https://github.com/user-attachments/assets/16d32663-8c3f-477d-be96-9b477613dec8" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551309-8d7ac6c8-6740-479f-8186-195c89823fda.png)
 
-7.	Use extrude option to convert 3D model from sketch
+## STEP 3:
+1. Then draw a 16mm circle on the front side of that diagram and select the sketch dimension from the circle to the right line and give 36mm dimension.
+   
+<img width="1225" height="567" alt="Screenshot 2026-11-20 202245" src="https://github.com/user-attachments/assets/fb806e98-ef83-4de4-9481-59c5a292a396" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551340-fe1f3b48-df79-44ef-a4ae-ff1cd22503ea.png)
+2. Then extrude it on opposite side to make the whole on the other side.
 
-8.	After finishing the model convert to drawing sheet per  ISO standard.
+<img width="1223" height="565" alt="Screenshot 2026-11-20 202253" src="https://github.com/user-attachments/assets/36833776-9598-433e-827d-dc496b0771ba" />
 
-![image](https://user-images.githubusercontent.com/113594316/198551370-54509915-ec69-4862-9c17-156d61a83b11.png)
+## STEP 4:
+1. Then give fillet option and select the four corners and give 16mm.
+
+<img width="1218" height="602" alt="Screenshot 2026-11-20 202304" src="https://github.com/user-attachments/assets/f34855e3-cbde-428a-8900-ff1e36729934" />
+
+<img width="1222" height="612" alt="Screenshot 2026-11-20 202810" src="https://github.com/user-attachments/assets/06debf08-8d86-4937-bda3-5d80b467cca9" />
 
 ## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/198551872-276f8b80-bea8-4d4a-b2e8-bfdcd1e9d3cc.png)
 
 ## OUTPUT:
+
+<img width="1266" height="625" alt="Screenshot 2026-11-20 203348" src="https://github.com/user-attachments/assets/506a6340-21dd-4736-8d2a-44488149f41b" />
+
+<img width="925" height="653" alt="Screenshot 2026-11-20 204138" src="https://github.com/user-attachments/assets/2c65e672-40e9-4837-922c-4338aab8e004" />
+
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
